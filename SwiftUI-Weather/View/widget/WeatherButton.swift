@@ -23,3 +23,12 @@ struct WeatherButton: View {
             
         }
 }
+
+#Preview {
+     ZStack {
+         Color.gray
+
+         WeatherButton(title: "Hello", textColor: .black, backgroundColor: .white)
+     }
+     .ignoresSafeArea()
+ }
