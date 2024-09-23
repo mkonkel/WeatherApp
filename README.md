@@ -1,5 +1,8 @@
 # iOS WeatherApp
 
+| ![Day view](screen/day.png) | ![Night view](screen/night.png) |
+|-----------------------------|---------------------------------|
+
 ## Description
 
 First attempt to learn Swift and iOS development.
